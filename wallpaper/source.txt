@@ -1,0 +1,11 @@
+#source
+Wallpaper-1.0	https://pixabay.com/de/illustrations/wallpaper-abstrakt-hintergrund-2487962/
+Wallpaper-2.0	https://pixabay.com/de/illustrations/eclipse-d%C3%A4mmerung-mond-sonne-1492818/
+Wallpaper-3.0	https://pixabay.com/de/illustrations/meditation-geistige-yoga-meditieren-1384758/
+Wallpaper-4.0	https://pixabay.com/de/illustrations/fraktale-abstrakt-hintergrund-1280081/
+Wallpaper-5.0	https://pixabay.com/de/illustrations/wallpaper-abstrakt-hintergrundbild-2492689/
+Wallpaper-6.0	https://pixabay.com/de/illustrations/ufo-kosmos-universum-vorw%C3%A4rts-1265186/
+Wallpaper-7.0	https://pixabay.com/de/photos/natur-gew%C3%A4sser-see-insel-3082832/
+Wallpaper-8.0	https://pixabay.com/de/illustrations/galaxie-raum-universum-astronautik-2643089/
+Wallpaper-9.0	https://pixabay.com/de/photos/tea-time-poesie-kaffee-lesung-3240766/
+Wallpaper-10.0	https://pixabay.com/de/photos/sonnensystem-urknall-11188/
