@@ -1,7 +1,9 @@
-# VolluX-config
+#Smartphone-config
+Tools i use
+- Nova-Launcher
+- Audify
+- KeePass
+- Muviz
+- Pixel icons
 
-This is my ubuntu 18.04 config
-
-I use:
-zsh -- antigen
-gnome -- 3.28.2
+Install this programs and paste in the launcher my novabackup-config...perfect
